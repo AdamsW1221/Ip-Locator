@@ -20,6 +20,9 @@ Utilidad
 * Proporciona una dirección IP o utiliza la dirección IP pública predeterminada para obtener información detallada.
 * La información se muestra de forma ordenada y legible en la línea de comandos, lo que facilita su comprensión.
 
+<h2>
+En ejecución
+</h2>
 
 <p align="center">
   <img src="localizador.png" alt="Imagen de la ejecución">
