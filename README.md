@@ -1,7 +1,7 @@
 <h1 align=center style="color: #ff5733;">~Ip-Locator~</h1>
 
 <p>
-<span style="color: blue;">IP Locator</span> es una herramienta de línea de comandos desarrollada en Python que te permite localizar y obtener información detallada sobre una dirección IP pública o ver datos relacionados con tu propia IP pública de forma rápida y sencilla. La herramienta se integra con fuentes de datos en línea para recopilar información precisa y en tiempo real.
+IP Locator es una herramienta de línea de comandos desarrollada en Python que te permite localizar y obtener información detallada sobre una dirección IP pública o ver datos relacionados con tu propia IP pública de forma rápida y sencilla. La herramienta se integra con fuentes de datos en línea para recopilar información precisa y en tiempo real.
 </p>
 
 <h2>
@@ -21,4 +21,6 @@ Utilidad
 * La información se muestra de forma ordenada y legible en la línea de comandos, lo que facilita su comprensión.
 
 
-![imagen de la ejecucion](localizador.png)
+<p align="center">
+  <img src="localizador.png" alt="Imagen de la ejecución">
+</p>
