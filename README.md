@@ -10,7 +10,7 @@ Paquetes Necesarios
 
 `pip install colorama`
 
-`pip install colorama`
+`pip install requests`
 
 <h2>
 Utilidad
